@@ -4,5 +4,5 @@ import {
 
 
 Watermark.init({
-    markTxt: '霍米家'
+    markTxt: 'H12890'
 });
